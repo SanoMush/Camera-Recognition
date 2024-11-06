@@ -50,6 +50,8 @@ dependencies {
     implementation("androidx.camera:camera-lifecycle:$cameraxVersion")
     implementation("androidx.camera:camera-view:$cameraxVersion")
 
-    //Library ML kit
+    //Library ML kit Text-Recognition
     implementation("com.google.mlkit:text-recognition:16.0.1")
+    //Library ML kit Translate
+    implementation("com.google.mlkit:translate:17.0.3")
 }

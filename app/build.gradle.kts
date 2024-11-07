@@ -54,4 +54,7 @@ dependencies {
     implementation("com.google.mlkit:text-recognition:16.0.1")
     //Library ML kit Translate
     implementation("com.google.mlkit:translate:17.0.3")
+    //Library Ml kit Barcode Scanning and Vision Integration
+    implementation("com.google.android.gms:play-services-mlkit-barcode-scanning:18.3.1")
+    implementation("androidx.camera:camera-mlkit-vision:1.4.0")
 }
